@@ -1,0 +1,7 @@
+ls
+exit
+:q
+cd
+ls
+ls -l
+/code
