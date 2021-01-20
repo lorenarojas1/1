@@ -1,6 +1,6 @@
 ls
 exit
-:q
+:djdhjs
 cd
 ls
 ls -l
